@@ -184,21 +184,21 @@ plt.show()
 
 - Original grayscale image is displayed
 
-  <img width="563" height="426" alt="image" src="https://github.com/user-attachments/assets/ce828067-d65b-4701-ad98-9a585bfecf33" />
+<img width="230" height="210" alt="image" src="https://github.com/user-attachments/assets/005dcaa6-439c-431b-b705-c88543210bff" />
 
 - Histogram of original grayscale image is plotted
 
-  <img width="600" height="431" alt="image" src="https://github.com/user-attachments/assets/67a4507c-a10f-42e1-a610-ebfe5f8deb09" />
+<img width="157" height="210" alt="image" src="https://github.com/user-attachments/assets/0c6a31e7-0d5c-41e9-9bc7-dc679d93dc25" />
 
 
 - Equalized grayscale image is displayed.
 
-  <img width="565" height="431" alt="image" src="https://github.com/user-attachments/assets/f0206106-a934-4380-9c3f-2fabcb3f8ff1" />
+<img width="290" height="234" alt="image" src="https://github.com/user-attachments/assets/fa68032f-3516-443d-8f8b-a9c33030c7c1" />
 
 
 - Histogram of the equalized image shows improved contrast.
 
-  <img width="579" height="436" alt="image" src="https://github.com/user-attachments/assets/b1eff95d-490d-48aa-b384-8b64bb307ea1" />
+<img width="299" height="234" alt="image" src="https://github.com/user-attachments/assets/047f1bf2-f248-4d5c-82e3-53f5cebaff55" />
 
 
 
