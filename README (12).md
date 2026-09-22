@@ -70,10 +70,10 @@ Display original color image, histogram, enhanced image, and enhanced histogram 
 ## Program
 
 ### Developed By:
-**Name:** JEEVAN IRUDHAYAM  
+**Name:** Abinesh m
 
 ### Register No:
-26014247 
+212224040009
 
 ---
 
@@ -205,7 +205,7 @@ plt.show()
 
 ### Color Image Histogram Equalization
 
-<img width="1044" height="393" alt="image" src="https://github.com/user-attachments/assets/dded5ee8-fd2f-47ff-8eb7-633a74dc1cbb" />
+<img width="840" height="470" alt="image" src="https://github.com/user-attachments/assets/b980951d-d27f-4a2c-8e32-215224275a72" />
 <img width="1059" height="408" alt="image" src="https://github.com/user-attachments/assets/78826a31-59f6-4ae4-9202-347adc4e7fd2" />
 
 ## Result
